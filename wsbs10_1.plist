@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.eastmoney.ab2</string>
+				<string>com.eastmoney.ab1</string>
 				<key>bundle-version</key>
 				<string>6.3.22</string>
 				<key>kind</key>
