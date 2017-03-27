@@ -19,13 +19,13 @@
 				<key>bundle-identifier</key>
 				<string>com.eastmoney.ab2</string>
 				<key>bundle-version</key>
-				<string>6.5.3</string>
+				<string>6.3.22</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>微信</string>
+				<string>微商帮手</string>
 				<key>title</key>
-				<string>微信</string>
+				<string>微商帮手</string>
 			</dict>
 		</dict>
 	</array>
